@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ioc">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/my-ico/ioc" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/my-ico/ioc" recursive="false" />
+  </library>
+</component>
